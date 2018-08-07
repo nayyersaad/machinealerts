@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Remote Machine Health</string>
+
+    <string name="close_app">Close App</string>
+    <string name="do_you_want_close_app">Do you want to close this app ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="no_notifications_to_show">No Notifications to Show</string>
+    <string name="notifications">Notifications</string>
+    <string name="has_been_shut_down">has been under maintenance since</string>
+
+    <string name="operate">Operate</string>
+    <string name="mach_add">MACH - ADD</string>
+    <string name="mach_subtract">MACH - SUBTRACT</string>
+    <string name="mach_multiply">MACH - MULTIPLY</string>
+    <string name="mach_divide">MACH - DIVIDE</string>
+    <string name="machine_is_under">Machine is under maintenance</string>
+    <string name="wait">Machine Down</string>
+    <string name="alert_machine_down">Alert - Machine Down</string>
+
+</resources>
